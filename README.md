@@ -1,4 +1,4 @@
-# Generalizable Contexts in Offline Meta-Reinforcement Learning with Adaptive Preference-based Task Guidance Information, IJCAI 2025
+# Generalizable Contexts in Offline Meta-Reinforcement Learning with Adaptive and Preference-based Guidance Information, IJCAI 2025
 
 ## Installation
 To install locally, you will need to first install [MuJoCo](https://www.roboti.us/index.html). 
